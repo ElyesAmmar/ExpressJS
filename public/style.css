@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+ul {
+    list-style-type: none;
+}
+li {
+    background-color: rgb(61, 189, 146);
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+h1 {
+    text-align: center;
+}
